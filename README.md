@@ -1,4 +1,4 @@
-## ProgramaFuncionario-Java
+## Programa Funcionario
 
 A Atividade foi passada pelo professor [Marcos Roberto de Moraes](https://github.com/maromo71) na [Fatec Itapira - "Dr. Ogari de Castro Pacheco"](https://fatecitapira.edu.br/).
 
